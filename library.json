@@ -1,0 +1,12 @@
+{
+    "name": "Eigen313",
+    "keywords": "Eigen Library",
+    "description": "Eigen Library for Matrix math",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/mcprakash/Eigen313.git"
+    },
+    "frameworks": ["arduino"],
+    "platforms": ["atmelsam"]
+}
