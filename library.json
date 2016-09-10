@@ -8,6 +8,6 @@
         "type": "git",
         "url": "https://github.com/mcprakash/Eigen.git"
     },
-    "frameworks": ["arduino", "mbed"]
+    "frameworks": ["arduino", "mbed"],
     "platforms": ["atmelsam", "ststm32"]
 }
