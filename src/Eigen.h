@@ -33,6 +33,7 @@ namespace std {
 
 // Include main EIGEN Core header
 #include <Core>
+#include <Geometry>
 
 
 #ifdef NEED_A0_RESTORED
